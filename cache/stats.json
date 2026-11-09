@@ -1,8 +1,127 @@
 {
   "stats": {
-    "repos": 17,
+    "repos": 18,
+    "contributed": 24,
     "stars": 74,
-    "followers": 12
+    "followers": 12,
+    "commits": 49,
+    "additions": 25820,
+    "deletions": 2106
   },
-  "loc": {}
+  "loc": {
+    "f592d14665c61b82": {
+      "oid": "d8f2f844e58d68b05e75f023e02047d0f2b8d7e3",
+      "additions": 58,
+      "deletions": 31,
+      "commits": 12
+    },
+    "da87f4b96cdac673": {
+      "oid": "ffb102088f0347b95b33d4002764784756b33be4",
+      "additions": 0,
+      "deletions": 0,
+      "commits": 0
+    },
+    "345a471b9fb4b7d7": {
+      "oid": "fc12862b86e65d593f73f519d239dcf9379f0b92",
+      "additions": 193,
+      "deletions": 53,
+      "commits": 6
+    },
+    "ba92b5e2e39925eb": {
+      "oid": "d458dfb8bcf8fac144e62a6f2699ee921b73f966",
+      "additions": 116,
+      "deletions": 639,
+      "commits": 2
+    },
+    "967aadff08932710": {
+      "oid": "e0e4a4552a8bc60c4e0d2b6b3ed9f0a19e3622d5",
+      "additions": 2720,
+      "deletions": 5,
+      "commits": 4
+    },
+    "f9fd5cabe32e9ffb": {
+      "oid": "96ebcc8467b9df6ccfb6237fb49c9a9c5457ee15",
+      "additions": 1,
+      "deletions": 0,
+      "commits": 1
+    },
+    "baf4f9b0f1b1d409": {
+      "oid": "ddd6ded39cea3af228721b019b1f9d5f5c4d3a12",
+      "additions": 0,
+      "deletions": 0,
+      "commits": 0
+    },
+    "1be71f89f9ef37d2": {
+      "oid": "a885a33f32c13737d9d7b339e3113f0f88d4191b",
+      "additions": 395,
+      "deletions": 0,
+      "commits": 1
+    },
+    "5796e78fc6d1bd1e": {
+      "oid": "f4bfa8b9ed7137e0895e3a2c4d2b4d5b078e2b8b",
+      "additions": 537,
+      "deletions": 0,
+      "commits": 3
+    },
+    "cf3c9358305c6880": {
+      "oid": "81a280b4b2264370287af6bbcb862991f90dd40e",
+      "additions": 4020,
+      "deletions": 1183,
+      "commits": 14
+    },
+    "36de79e42a00a400": {
+      "oid": "127a201bc503052979a920ad293155287cf8cd9c",
+      "additions": 133,
+      "deletions": 8,
+      "commits": 1
+    },
+    "ce695edead9dca55": {
+      "oid": "1edb02f600ae6b3076d6f7fe80639ea797d68ca7",
+      "additions": 0,
+      "deletions": 0,
+      "commits": 0
+    },
+    "d5d5efaa58e47dcd": {
+      "oid": "8820073f96b243499c100876a598131ab3554442",
+      "additions": 0,
+      "deletions": 0,
+      "commits": 0
+    },
+    "bb3b397970f36134": {
+      "oid": "482f0f71fa01f52e43807b0a6bdaf1195e06ebed",
+      "additions": 379,
+      "deletions": 0,
+      "commits": 1
+    },
+    "66cf0619d501ef64": {
+      "oid": "2b8c8cf8dd0346522850043d21cd40e050395c81",
+      "additions": 0,
+      "deletions": 0,
+      "commits": 0
+    },
+    "ff37efec9dcbadbe": {
+      "oid": "ffc31ac5a70d2022227aa0d67f7e7af393e2862a",
+      "additions": 16607,
+      "deletions": 187,
+      "commits": 5
+    },
+    "46a69ee65a5738bf": {
+      "oid": "109fd8161a509db5a00942152ba48882e446e8b0",
+      "additions": 0,
+      "deletions": 0,
+      "commits": 0
+    },
+    "7a74851287ebb624": {
+      "oid": "37c0470e5285023f52b77537eb43b5744cb60418",
+      "additions": 0,
+      "deletions": 0,
+      "commits": 0
+    },
+    "791133b9ebfe2af2": {
+      "oid": "d82d4b109139ada8571b6cb571ce82bcb6a4a98f",
+      "additions": 661,
+      "deletions": 0,
+      "commits": 1
+    }
+  }
 }

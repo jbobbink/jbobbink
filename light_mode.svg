@@ -59,8 +59,8 @@ text, tspan {white-space: pre;}
 <tspan x="470" y="390"><tspan class="cc">. </tspan><tspan class="key">GitHub</tspan>:<tspan class="cc"> ......................................... </tspan><tspan class="value">jbobbink</tspan></tspan>
 <tspan x="470" y="410"></tspan>
 <tspan x="470" y="430">- GitHub Stats <tspan class="cc">──────────────────────────────────────────</tspan><tspan class="cc">-—-</tspan></tspan>
-<tspan x="470" y="450"><tspan class="cc">. </tspan><tspan class="key">Repos</tspan>:<tspan class="cc"> .... </tspan><tspan class="value">17 {Contributed: ?}</tspan> | <tspan class="key">Stars</tspan>:<tspan class="cc"> .............. </tspan><tspan class="value">74</tspan></tspan>
-<tspan x="470" y="470"><tspan class="cc">. </tspan><tspan class="key">Commits</tspan>:<tspan class="cc"> .................... </tspan><tspan class="value">?</tspan> | <tspan class="key">Followers</tspan>:<tspan class="cc"> .......... </tspan><tspan class="value">12</tspan></tspan>
-<tspan x="470" y="490"><tspan class="cc">. </tspan><tspan class="key">Lines of Code on GitHub</tspan>:<tspan class="cc"> .................. </tspan><tspan class="value">?</tspan> ( <tspan class="add">?</tspan><tspan class="add">++</tspan>, <tspan class="del">?</tspan><tspan class="del">--</tspan> )</tspan>
+<tspan x="470" y="450"><tspan class="cc">. </tspan><tspan class="key">Repos</tspan>:<tspan class="cc"> ... </tspan><tspan class="value">18 {Contributed: 24}</tspan> | <tspan class="key">Stars</tspan>:<tspan class="cc"> .............. </tspan><tspan class="value">74</tspan></tspan>
+<tspan x="470" y="470"><tspan class="cc">. </tspan><tspan class="key">Commits</tspan>:<tspan class="cc"> ................... </tspan><tspan class="value">49</tspan> | <tspan class="key">Followers</tspan>:<tspan class="cc"> .......... </tspan><tspan class="value">12</tspan></tspan>
+<tspan x="470" y="490"><tspan class="cc">. </tspan><tspan class="key">Lines of Code on GitHub</tspan>:<tspan class="cc"> .... </tspan><tspan class="value">23,714</tspan> ( <tspan class="add">25,820</tspan><tspan class="add">++</tspan>, <tspan class="del">2,106</tspan><tspan class="del">--</tspan> )</tspan>
 </text>
 </svg>
