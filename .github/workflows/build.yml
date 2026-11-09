@@ -1,0 +1,40 @@
+name: Update profile card
+
+on:
+  schedule:
+    - cron: "17 4 * * *" # daily, 04:17 UTC
+  push:
+    branches: [main]
+    paths: ["profile.config.json", "assets/ascii.txt", "scripts/update.mjs"]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-card
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - name: Build SVGs
+        env:
+          # Optional repo secret: a token that can read your private repos, so
+          # their commits and lines of code count too. Without it, the default
+          # GITHUB_TOKEN covers public data only.
+          ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: node scripts/update.mjs
+      - name: Commit
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add dark_mode.svg light_mode.svg cache/stats.json
+          git diff --cached --quiet || git commit -m "Update profile card"
+          git push

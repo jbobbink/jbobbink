@@ -1,0 +1,31 @@
+{
+  "login": "jbobbink",
+  "header": "jan-willem@bobbink",
+  "uptimeSince": "1996-01-01",
+  "width": 60,
+  "sections": [
+    [
+      ["OS", "Windows 11, Linux, Android"],
+      ["Uptime", "{uptime}"],
+      ["Host", "Notprovided.eu"],
+      ["Kernel", "SEO consultant, founder of GSC Wizard"],
+      ["IDE", "VS Code + Claude Code"]
+    ],
+    [
+      ["Languages.Programming", "TypeScript, Python, JS, Go"],
+      ["Languages.Computer", "HTML, CSS, SQL, JSON, YAML"],
+      ["Languages.Real", "Dutch, English"]
+    ],
+    [
+      ["Building", "GSC Wizard, Glippy, MCP servers"],
+      ["Focus", "Technical SEO, Search Console data"]
+    ]
+  ],
+  "contact": [
+    ["Website", "notprovided.eu"],
+    ["Product", "gscwizard.com"],
+    ["X", "@jwbobbink"],
+    ["GitHub", "jbobbink"]
+  ],
+  "locSkipCommitsOver": 20000
+}

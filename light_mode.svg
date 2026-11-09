@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,'DejaVu Sans Mono',Menlo,monospace" width="1040px" height="560px" font-size="16px">
+<style>
+.key {fill: #953800;}
+.value {fill: #0a3069;}
+.cc {fill: #c2cfde;}
+.add {fill: #1a7f37;}
+.del {fill: #cf222e;}
+text, tspan {white-space: pre;}
+</style>
+<rect width="1040px" height="560px" fill="#f6f8fa" stroke="#d0d7de" rx="15"/>
+<text x="15" y="30" fill="#24292f" class="ascii">
+<tspan x="15" y="30"></tspan>
+<tspan x="15" y="50">              .,:;~~~;,...</tspan>
+<tspan x="15" y="70">         .-*x#%@@@@@@@#o+~~=-.</tspan>
+<tspan x="15" y="90">       :+%@@@@@%%#####%%##o**+~,</tspan>
+<tspan x="15" y="110">     ,o@@@%#xo*=-;;--~==+o#%#*=~.</tspan>
+<tspan x="15" y="130">    ,x@%%x*+=~-;:,,:;;--~=*x#%o+;</tspan>
+<tspan x="15" y="150">   ,x%xx++=-~---;::::;-~==*ooo#o=.</tspan>
+<tspan x="15" y="170">  ,#@%x+---~==--;,...,;---~=++x#*,</tspan>
+<tspan x="15" y="190">  ;%@%#+==++*=;,,,,...::,:-~==*#+-.</tspan>
+<tspan x="15" y="210">  ,#%%%#xo*++=;;;-~~~-:,:+x#xxx##x+.</tspan>
+<tspan x="15" y="230">  .o%@@@#ooooxxxx#@#xxxxx%#*xo+=#@#,</tspan>
+<tspan x="15" y="250">   ;x##%@%xoo%%=-;~-;~#%++#~,,;-*%~</tspan>
+<tspan x="15" y="270">    -=-o%%o+~=#*:..,-*##+;~o*==+x=</tspan>
+<tspan x="15" y="290">     ;:=~o#oo+~==--~-;*xx=-o=~+*~</tspan>
+<tspan x="15" y="310">      ;=;~xoo*~;,,:..;+o*+*x*=+*,</tspan>
+<tspan x="15" y="330">       ~=~xxo*=~;;;,~+++==+xx**~</tspan>
+<tspan x="15" y="350">        ;*xxxoo*~-;;~oxooxxxx*~.</tspan>
+<tspan x="15" y="370">         ,+oxx**+=~~==-~==+=+o-</tspan>
+<tspan x="15" y="390">          ~+*x#x+,.-+=~=-:~*ox+.</tspan>
+<tspan x="15" y="410">         :*==+o##o*o#xooooxxoxxo-:.</tspan>
+<tspan x="15" y="430">       .,,o*=~~+oxxo****o**==*x@+-x*~,</tspan>
+<tspan x="15" y="450">     .:-: -#*---~+**+=~~~~;;~+x#-.=o+**~;,</tspan>
+<tspan x="15" y="470">,:--;::,.  :+~~-,;~~~-;;;;:;--*x-.:-,.,;-===</tspan>
+<tspan x="15" y="490">-;,. .,,:-==-;~~;:::::,,,,:;:-o~:-=*~.    .,</tspan>
+<tspan x="15" y="510">     .:-;,:~*~;~~;,,...,,,;::+~,,:,::.  ..</tspan>
+<tspan x="15" y="530">      .,::,.,:-~-:.......,,,-: ....  ..  ..</tspan>
+</text>
+<text x="470" y="30" fill="#24292f">
+<tspan x="470" y="30">jan-willem@bobbink <tspan class="cc">──────────────────────────────────────</tspan><tspan class="cc">-—-</tspan></tspan>
+<tspan x="470" y="50"><tspan class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> ........................... </tspan><tspan class="value">Windows 11, Linux, Android</tspan></tspan>
+<tspan x="470" y="70"><tspan class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc"> ...................... </tspan><tspan class="value">30 years, 10 months, 8 days</tspan></tspan>
+<tspan x="470" y="90"><tspan class="cc">. </tspan><tspan class="key">Host</tspan>:<tspan class="cc"> ..................................... </tspan><tspan class="value">Notprovided.eu</tspan></tspan>
+<tspan x="470" y="110"><tspan class="cc">. </tspan><tspan class="key">Kernel</tspan>:<tspan class="cc"> ............ </tspan><tspan class="value">SEO consultant, founder of GSC Wizard</tspan></tspan>
+<tspan x="470" y="130"><tspan class="cc">. </tspan><tspan class="key">IDE</tspan>:<tspan class="cc"> ............................... </tspan><tspan class="value">VS Code + Claude Code</tspan></tspan>
+<tspan x="470" y="150"></tspan>
+<tspan x="470" y="170"><tspan class="cc">. </tspan><tspan class="key">Languages.Programming</tspan>:<tspan class="cc"> ........ </tspan><tspan class="value">TypeScript, Python, JS, Go</tspan></tspan>
+<tspan x="470" y="190"><tspan class="cc">. </tspan><tspan class="key">Languages.Computer</tspan>:<tspan class="cc"> ........... </tspan><tspan class="value">HTML, CSS, SQL, JSON, YAML</tspan></tspan>
+<tspan x="470" y="210"><tspan class="cc">. </tspan><tspan class="key">Languages.Real</tspan>:<tspan class="cc"> ........................... </tspan><tspan class="value">Dutch, English</tspan></tspan>
+<tspan x="470" y="230"></tspan>
+<tspan x="470" y="250"><tspan class="cc">. </tspan><tspan class="key">Building</tspan>:<tspan class="cc"> ................ </tspan><tspan class="value">GSC Wizard, Glippy, MCP servers</tspan></tspan>
+<tspan x="470" y="270"><tspan class="cc">. </tspan><tspan class="key">Focus</tspan>:<tspan class="cc"> ................ </tspan><tspan class="value">Technical SEO, Search Console data</tspan></tspan>
+<tspan x="470" y="290"></tspan>
+<tspan x="470" y="310">- Contact <tspan class="cc">───────────────────────────────────────────────</tspan><tspan class="cc">-—-</tspan></tspan>
+<tspan x="470" y="330"><tspan class="cc">. </tspan><tspan class="key">Website</tspan>:<tspan class="cc"> .................................. </tspan><tspan class="value">notprovided.eu</tspan></tspan>
+<tspan x="470" y="350"><tspan class="cc">. </tspan><tspan class="key">Product</tspan>:<tspan class="cc"> ................................... </tspan><tspan class="value">gscwizard.com</tspan></tspan>
+<tspan x="470" y="370"><tspan class="cc">. </tspan><tspan class="key">X</tspan>:<tspan class="cc"> ............................................ </tspan><tspan class="value">@jwbobbink</tspan></tspan>
+<tspan x="470" y="390"><tspan class="cc">. </tspan><tspan class="key">GitHub</tspan>:<tspan class="cc"> ......................................... </tspan><tspan class="value">jbobbink</tspan></tspan>
+<tspan x="470" y="410"></tspan>
+<tspan x="470" y="430">- GitHub Stats <tspan class="cc">──────────────────────────────────────────</tspan><tspan class="cc">-—-</tspan></tspan>
+<tspan x="470" y="450"><tspan class="cc">. </tspan><tspan class="key">Repos</tspan>:<tspan class="cc"> .... </tspan><tspan class="value">17 {Contributed: ?}</tspan> | <tspan class="key">Stars</tspan>:<tspan class="cc"> .............. </tspan><tspan class="value">74</tspan></tspan>
+<tspan x="470" y="470"><tspan class="cc">. </tspan><tspan class="key">Commits</tspan>:<tspan class="cc"> .................... </tspan><tspan class="value">?</tspan> | <tspan class="key">Followers</tspan>:<tspan class="cc"> .......... </tspan><tspan class="value">12</tspan></tspan>
+<tspan x="470" y="490"><tspan class="cc">. </tspan><tspan class="key">Lines of Code on GitHub</tspan>:<tspan class="cc"> .................. </tspan><tspan class="value">?</tspan> ( <tspan class="add">?</tspan><tspan class="add">++</tspan>, <tspan class="del">?</tspan><tspan class="del">--</tspan> )</tspan>
+</text>
+</svg>
